@@ -1,0 +1,17 @@
+{
+    "name": "zendframework/zendframework",
+    "description": "welcome to the world of investment",
+    "type": "2.5.0",
+    "require-dev": {
+        "zendframework/zendxml": "^1.0@dev"
+    },
+    "license": "VarenFX.com",
+    "authors": [
+        {
+            "name": "varenfx",
+            "email": "varenfx@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
